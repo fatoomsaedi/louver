@@ -1,0 +1,11 @@
+Model Information:
+* title:	105.FA.11 Nike Samothrace
+* source:	https://sketchfab.com/3d-models/105fa11-nike-samothrace-96d1f625700a49eba8c6f355279f3973
+* author:	Ancient World 3D (https://sketchfab.com/ancientworld3d)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "105.FA.11 Nike Samothrace" (https://sketchfab.com/3d-models/105fa11-nike-samothrace-96d1f625700a49eba8c6f355279f3973) by Ancient World 3D (https://sketchfab.com/ancientworld3d) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
